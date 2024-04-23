@@ -1,12 +1,10 @@
-#VIEWING NFL DATA USING SQL
+**NFL-SQL-B1K**
 
 
 PRE-REQ:
 
 NFL BIG DATA BOWL DATA VIA KAGGLE
 UPLOAD DATA TO GOOGLE CO-LAB
-
-# prompt: summuray of what was completed and tools used
 
 **Summary:**
 
