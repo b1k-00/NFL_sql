@@ -25,9 +25,10 @@ The code focuses on identifying the top tacklers among safeties (SS) in the NFL.
 
 The code shows that the top tacklers among safeties are:
 
-* Jamal Adams (49 tackles)
-* Derwin James (48 tackles)
-* Minkah Fitzpatrick (41 tackles)
+
+* Budda Baker   (80 tackles)
+* Eddie Jackson  (74 tackles)
+* Richie Grant (69 tackles)
 
 **Conclusion:**
 
